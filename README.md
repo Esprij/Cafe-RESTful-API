@@ -2,6 +2,10 @@
 An API that returns requested data about cafes around London.
 
 ## What is being practiced/learned with this project
-API routing
-RESTful APIs
-RESTful routing
+<ul>
+  <li>API routing</li>
+  <li>RESTful APIs</li>
+  <li>RESTful routing</li>
+  <li>Postman Testing</li>
+</ul>
+
